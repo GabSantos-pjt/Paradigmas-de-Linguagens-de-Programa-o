@@ -2,7 +2,7 @@
 
 **Disciplina:** Paradigmas de Linguagens de Programação<br>
 **Professor:** Munif Gebara Junior<br>
-**Aluno:** Matheus De Oliveira Mascarello<br>
+**Aluno:** Gabriel Santos Furlanette<br>
 **Linguagem escolhida:** Java
 
 ---
